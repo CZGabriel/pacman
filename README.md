@@ -8,7 +8,7 @@ The assignment was to create a pacman animation that moved back and forth across
 We had to use function, arrays, objects, and loops to accomplish this.
 </body>
 
-<h1>Installation/h1>
+<h1>Installation</h1>
   <body> If you want to try this, click on the <b>starter.01</b> html file in this repo
-<h1>Usage/h1>
+<h1>Usage</h1>
   <body> You can use this starter pack to replicate the assignment with your own edits.</body>
